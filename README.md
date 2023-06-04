@@ -1,13 +1,12 @@
-[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ikoghoemmanuell)
-[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
-
-[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@emmanuel.ikogho/regression-project-store-sales-time-series-forecasting-635ba7818989)
-
 # Regression Project (Store Sales -- Time Series Forecasting)
 
-## Introduction
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ikoghoemmanuell)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@emmanuel.ikogho/regression-project-store-sales-time-series-forecasting-635ba7818989)
 
 <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/0*Pjg9OGIes1UwwdZq.jpg" width="150">
+
+## Introduction
 
 This is a time series forecasting problem. In this project, we will predict store sales on data from Corporation Favorita, a large Ecuadorian-based grocery retailer.
 
