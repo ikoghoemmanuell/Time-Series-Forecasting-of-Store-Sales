@@ -1,4 +1,4 @@
-# Regression Project (Store Sales -- Time Series Forecasting)
+## Regression Project (Store Sales -- Time Series Forecasting)
 
 [![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/ikoghoemmanuell)
 [![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/ikoghoemmanuell?tab=repositories)
